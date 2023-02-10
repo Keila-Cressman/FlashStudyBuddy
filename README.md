@@ -1,4 +1,5 @@
 # FlashStudyBuddy
+## Getting Started
 1) Create repo on Github
       - Copy repo HTTP url code
       - Open Git Bash enter:
@@ -19,6 +20,7 @@
         git remote add orirgin HTTPUrlAgain
         
         git push -u origin main
+## Pushing locally
 3) Push repo normally:
       - in Git Bash enter:
       
